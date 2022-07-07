@@ -78,15 +78,3 @@
     font-size: 8px;
     text-align: center;
 }
-
-@media (max-width:320px) {
-    .footer_father {
-        display: grid;
-        grid-template-columns: 1fr;
-    }
-    .icons_footer {
-        display: flex;
-        justify-content: space-evenly;
-        margin: 5px;
-    }
-}
